@@ -17,12 +17,6 @@ We approach This project with a bespoke mindset, from design through to developm
  ▪	Backend:
   ▪	Python
   
- ▪	Frontend:
-  ●	CSS
-  ●	Bootstrap
-  ●	Html
-  ●	Java script
-  
  ▪	For Database:
   ●	Sqlite3
   
