@@ -1,4 +1,4 @@
-# Parfact-Partnar:
+# Perfect-Partnar:
 # Abstract:
 It's an Entertain Project. We do this project for those who are single and want to mingle. Where people can match and find their perfect partner for a date. This system is handy for single boys and girls, and the plan is unique and efficient.
 # Background:
