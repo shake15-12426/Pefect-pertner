@@ -38,5 +38,3 @@ We will add more features which are the admin panel, users panel, Bio-data panel
 
 ## sample of project
 ![Screenshot (156)](https://user-images.githubusercontent.com/66082987/146216805-5d22a2dc-ea57-4c80-81fc-ef0cd5504946.png)
-
-## Liscence
